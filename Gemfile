@@ -17,6 +17,8 @@ gem 'carrierwave', '~> 0.11.2'
 gem 'bcrypt', '~> 3.1.7'
 gem "mini_magick"
 gem "font-awesome-rails"
+gem "will_paginate",'~> 3.3.0'
+
 
 
 group :development, :test do
